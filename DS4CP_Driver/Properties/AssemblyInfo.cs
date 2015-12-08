@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DS4Windows")]
-[assembly: AssemblyDescription("Sony DualShock 4 to Microsoft Xinput controller mapper")]
+[assembly: AssemblyTitle("DS4CP_Driver")]
+[assembly: AssemblyDescription("DualShock4 Driver for WoW")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DS4Windows")]
-[assembly: AssemblyCopyright("Copyright © Scarlet.Crush Productions 2012, 2013; InhexSTER, HecticSeptic, electrobrains 2013, 2014; Jays2Kings 2013, 2014, 2015")]
+[assembly: AssemblyProduct("DS4CP_Driver")]
+[assembly: AssemblyCopyright("DS4Wrapper Copyright Topher Sheridan 2015 Original DS4Windows Copyright © Scarlet.Crush Productions 2012, 2013; InhexSTER, HecticSeptic, electrobrains 2013, 2014; Jays2Kings 2013, 2014, 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
